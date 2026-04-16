@@ -28,19 +28,19 @@ created in google sheets.
 
 ERP Dashboard:
 
-![Dashboard](ERP_Dashboard.png)
+![Dashboard](images/ERP_Dashboard.png)
 This shows the main KPIs including total revenue, profit, inventory value, and collection rate.
 
 Revenue Trend:
-![Revenue](Revenue_Trend.png)
+![Revenue](images/Revenue_Trend.png)
 Shows total payments over time, helping track business income trends.
 
 Product Sales:
-![Sales](Product_Sales.png)
+![Sales](images/Product_Sales.png)
 Compares total sales across different products to identify best sellers.
 
 Inventory Status:
-![Inventory](Inventory_Status.png)
+![Inventory](images/Inventory_Status.png)
 Displays current stock levels for each product.
 
 # What I learned
