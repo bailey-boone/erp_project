@@ -23,6 +23,9 @@ One thing I tried to model realistically was partial payments. Not every invoice
 
 I also separated raw queries from KPI calculations to make it feel closer to how real systems are structured.
 
+# Visual Graphs
+![Dashboard](ERP_Dashboard.png)
+
 # What I learned
 
 * How different parts of a business system connect (orders → invoices → payments)
