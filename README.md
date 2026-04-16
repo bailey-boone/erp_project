@@ -24,10 +24,23 @@ One thing I tried to model realistically was partial payments. Not every invoice
 I also separated raw queries from KPI calculations to make it feel closer to how real systems are structured.
 
 # Visual Graphs
+created in google sheets.
 
-## ERP Dashboard
-This shows the main KPIs including total revenue, profit, inventory value, and collection rate.
+ERP Dashboard:
 ![Dashboard](ERP_Dashboard.png)
+This shows the main KPIs including total revenue, profit, inventory value, and collection rate.
+
+Revenue Trend:
+![Revenue](Revenue_Trend.png)
+Shows total payments over time, helping track business income trends.
+
+Product Sales:
+![Sales](Product_Sales.png)
+Compares total sales across different products to identify best sellers.
+
+Inventory Status:
+![Inventory](Inventory_Status.png)
+Displays current stock levels for each product.
 
 # What I learned
 
