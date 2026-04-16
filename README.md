@@ -24,6 +24,9 @@ One thing I tried to model realistically was partial payments. Not every invoice
 I also separated raw queries from KPI calculations to make it feel closer to how real systems are structured.
 
 # Visual Graphs
+
+## ERP Dashboard
+This shows the main KPIs including total revenue, profit, inventory value, and collection rate.
 ![Dashboard](ERP_Dashboard.png)
 
 # What I learned
