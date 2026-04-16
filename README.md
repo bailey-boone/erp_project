@@ -27,8 +27,8 @@ I also separated raw queries from KPI calculations to make it feel closer to how
 created in google sheets.
 
 ERP Dashboard:
-![Dashboard](ERP_Dashboard.png)
 
+![Dashboard](ERP_Dashboard.png)
 This shows the main KPIs including total revenue, profit, inventory value, and collection rate.
 
 Revenue Trend:
